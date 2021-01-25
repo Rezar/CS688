@@ -1,8 +1,4 @@
-# METCS688
-
-
-glmnet is used for regression
-https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net
-setting alpha = 0 makes a ridge regression.
 
 # CS688
+
+Please be sure to use the codes from the slide first, this repo is for back up purposes only.
